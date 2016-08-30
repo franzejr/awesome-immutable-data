@@ -1,5 +1,4 @@
-# awesome-immutable-data
-Awesome Immutable Data
+#Awesome Immutable Data
 
 # Papers
 
@@ -9,7 +8,6 @@ Awesome Immutable Data
 - [Immutable data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 
 # Presentations
-
 
 
 # Immutable Data Structures
@@ -22,3 +20,10 @@ Awesome Immutable Data
 ## Javascript
 
 - [facebook/immutable-js](https://github.com/facebook/immutable-js)
+- 
+
+# Benchmarks
+
+## Javascript
+
+- [mattbierner/js-hashtrie-benchmark](https://github.com/mattbierner/js-hashtrie-benchmark)
