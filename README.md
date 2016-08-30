@@ -4,6 +4,14 @@ Awesome Immutable Data
 # Papers
 
 
+# Videos
+
+- [Immutable data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
+
+# Presentations
+
+
+
 # Immutable Data Structures
 
 ## Ruby
