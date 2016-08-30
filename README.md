@@ -20,7 +20,6 @@
 ## Javascript
 
 - [facebook/immutable-js](https://github.com/facebook/immutable-js)
-- 
 
 # Benchmarks
 
