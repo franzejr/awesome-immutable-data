@@ -7,6 +7,10 @@
 
 - [Immutable data and React](https://www.youtube.com/watch?v=I7IdS-PbEgI)
 
+# Articles
+
+- [Should I use ShouldComponentUpdate() ?](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)
+
 # Presentations
 
 
