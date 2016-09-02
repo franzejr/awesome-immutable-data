@@ -2,6 +2,8 @@
 
 # Papers
 
+- [Lean Hash Array Mapped Trie](http://michael.steindorfer.name/publications/oopsla15.pdf)
+
 
 # Videos
 
