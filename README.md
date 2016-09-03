@@ -1,5 +1,8 @@
 #Awesome Immutable Data
 
+>>a persistent data structure is a data structure that always preserves the previous version of itself when it is modified. Such data structures are effectively immutable, as their operations do not (visibly) update the structure in-place, but instead always yield a new updated structure. [Wikipedia]
+>>
+
 # Papers
 
 - [Lean Hash Array Mapped Trie](http://michael.steindorfer.name/publications/oopsla15.pdf)
@@ -12,9 +15,6 @@
 # Articles
 
 - [Should I use ShouldComponentUpdate() ?](http://jamesknelson.com/should-i-use-shouldcomponentupdate/)
-
-# Presentations
-
 
 # Immutable Data Structures
 
