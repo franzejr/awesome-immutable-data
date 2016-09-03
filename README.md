@@ -3,7 +3,7 @@
 # Papers
 
 - [Lean Hash Array Mapped Trie](http://michael.steindorfer.name/publications/oopsla15.pdf)
-
+- [Ideal Hash Trees, Phil Bagwell](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
 
 # Videos
 
