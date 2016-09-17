@@ -9,6 +9,7 @@ Here you will find information about Immutable Data in a bunch of languages.
 
 - [Lean Hash Array Mapped Trie](http://michael.steindorfer.name/publications/oopsla15.pdf)
 - [Ideal Hash Trees, Phil Bagwell](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
+- [Making Data Structures Persistent, JAMES R. DRISCOLL](http://www.cs.cmu.edu/~sleator/papers/another-persistence.pdf)
 
 # Videos
 
