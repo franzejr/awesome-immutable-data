@@ -26,6 +26,10 @@ Here you will find information about Immutable Data in a bunch of languages.
 - [shugo/immutable](https://github.com/shugo/immutable)
 - [hamstergem/hamster/](https://github.com/hamstergem/hamster/)
 
+## Crystal
+
+- [https://github.com/lucaong/immutable](lucaong/immutable)
+
 ## Javascript
 
 - [facebook/immutable-js](https://github.com/facebook/immutable-js)
